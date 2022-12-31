@@ -9,7 +9,7 @@ My name is Kinshuk. I taught myself how to code due to my fascination with techn
 ## I Am Currently Working On...
 Freelance Developer: Working on an assortment of web app using React
 
-## I am currently leraning..
+## Technologies which I am currently learning...
 NEXT.JS, JAVA
 
 ## Github Stats:

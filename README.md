@@ -9,6 +9,9 @@ My name is Kinshuk. I taught myself how to code due to my fascination with techn
 ## I Am Currently Working On...
 Freelance Developer: Working on an assortment of web app using React
 
+## I am currently leraning..
+NEXT.JS, JAVA
+
 ## Github Stats:
 [![Kinshuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinshuk-kataria&show_icons=true&title_color=9dabd8&text_color=00AA00&border_color=9dabd8&icon_color=9dabd8&bg_color=000000&border_radius=0&count_private=true)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 

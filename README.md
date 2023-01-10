@@ -7,14 +7,16 @@ My name is Kinshuk. I taught myself how to code due to my fascination with techn
 
 
 ## I Am Currently Working On...
-Freelance Developer: Working on an assortment of web app using React
+<li>Chief Technology Officer at Trine: A startup which build software solutions for medium scale businesses.</li>
+<li>Independent contractor at Upwork: Working on an assortment of web and mobile apps using React.</li>
+
 
 ## Technologies which I am currently learning...
-NEXT.JS, Java ,TypeScript
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 
 ## Github Stats:
 [![Kinshuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinshuk-kataria&show_icons=true&title_color=9dabd8&text_color=00AA00&border_color=9dabd8&icon_color=9dabd8&bg_color=000000&border_radius=0&count_private=true)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 
 ## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/03_kinshuk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kinshukkataria) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kinshuk3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kinshukkataria) 
 

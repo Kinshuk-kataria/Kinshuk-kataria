@@ -7,8 +7,8 @@ My name is Kinshuk. I taught myself how to code due to my fascination with techn
 
 
 ## I Am Currently Working On...
-<li>Chief Technology Officer at Trine: A startup which build software solutions for medium scale businesses.</li>
-<li>Independent contractor at Upwork: Working on an assortment of web and mobile apps using React.</li>
+<li>Software engineer at Trine: A startup which build software solutions for medium scale businesses.</li>
+<li>Independent contractor at Upwork</li>
 
 
 ## Technologies which I am currently learning...

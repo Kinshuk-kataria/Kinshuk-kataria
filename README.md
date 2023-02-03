@@ -7,12 +7,11 @@ My name is Kinshuk. I taught myself how to code due to my fascination with techn
 
 
 ## I Am Currently Working On...
-<li>Software engineer at Trine: A startup which build software solutions for medium scale businesses.</li>
-<li>Independent contractor at Upwork</li>
+<li>Software engineer at Trine: A startup which builds custom software solutions for small and medium sized businesses.</li>
 
 
 ## Technologies which I am currently learning...
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) 
+react-native
 ## Github Stats:
 [![Kinshuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinshuk-kataria&show_icons=true&title_color=9dabd8&text_color=00AA00&border_color=9dabd8&icon_color=9dabd8&bg_color=000000&border_radius=0&count_private=true)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 

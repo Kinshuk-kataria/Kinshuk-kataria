@@ -7,7 +7,8 @@ My name is Kinshuk. I taught myself how to code due to my fascination with techn
 
 
 ## I Am Currently Working On...
-<li>React Software Engineer at Trine</li>
+<li>Software Engineer at Trine</li>
+<li>Designing architecture of web application.</li>
 
 
 ## Experimental..

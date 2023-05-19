@@ -12,7 +12,7 @@ Driven by a curiosity for innovation, I am a highly self driven software enginee
 
 
 ## Experimental..
-Svelte, DevOps tools
+Gsap
 
 ## Github Stats:
 [![Kinshuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinshuk-kataria&show_icons=true&title_color=9dabd8&text_color=00AA00&border_color=9dabd8&icon_color=9dabd8&bg_color=000000&border_radius=0&count_private=true)](https://github.com/anuraghazra/github-readme-stats&count_private=true)

@@ -9,8 +9,8 @@ I am Kinshuk, I am a self taught developer having +2.5 years of experience in de
 ## I work as a...
 Freelance Software Engineer
 
-## Along with that...
-I am working on a portfolio project where I am experimenting with GSAP
+## Currently I am experimenting with...
+vercel, serverless, micro-frontend
 
 
 

@@ -15,7 +15,7 @@ vercel, serverless, micro-frontend
 
 
 ## Checkout my boards at pinterest...
-<a target="blank">https://in.pinterest.com/TH3_FLOW/</a>
+<a target="blank">https://in.pinterest.com/th3_flow_/</a>
 
 
 

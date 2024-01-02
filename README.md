@@ -8,7 +8,7 @@ I am Kinshuk, I am a self taught developer. Most of the time I have been working
 Independent/Freelance Developer
 
 ## Availability...
-December 1, 2023
+Feb 1, 2024
 
 
 
